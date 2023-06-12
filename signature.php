@@ -17,7 +17,7 @@
     <a href="Week_5_p1.php" title="from 30 to 36" class="weeks">Week 5 p1</a>
     <a href="Week_5_p2.php" title="from 37 to 42" class="weeks">Week 5 p2</a>
     <a href="Week_6.php" title="from 43 to 52" class="weeks">Week 6</a>
-    <a href="javascript:" title="soon" class="weeks">Week 7</a>
+    <a href="Week_7.php" title="from 53 to 62" class="weeks">Week 7</a>
     <a href="javascript:" title="soon" class="weeks">Week 8</a>
     <a href="javascript:" title="soon" class="weeks">Week 9</a>
     <a href="javascript:" title="soon" class="weeks">Week 10</a>
